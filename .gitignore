@@ -1,0 +1,9 @@
+.gitignore.bak
+.gitignore~
+*.bak
+*~
+.*~
+\#*\#
+.\#*
+
+.svn
